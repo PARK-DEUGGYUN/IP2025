@@ -8,6 +8,7 @@ k=9
 blur = cv2.GaussianBlur(img,(k,k),0)
 median = cv2.medianBlur(img, k)
 
-plt.subplot(121),plt.imshow(median),plt.title('3x3')
+plt.subplot(121),plt.imshow(median),plt.title('median')
 plt.subplot(122),plt.imshow(blur),plt.title('gaussian blur')
 plt.show()
+
