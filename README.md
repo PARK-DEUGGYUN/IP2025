@@ -13,8 +13,6 @@ Homework2
 
 https://youtu.be/kPRONkmT2eg?si=ToHSstCFh4YJToiG
 
-https://youtu.be/CkGW5W4eE6I
-
 [![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/kPRONkmT2eg)
 
 
