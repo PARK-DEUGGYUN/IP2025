@@ -7,7 +7,7 @@ Homework1
 
 https://youtu.be/fPdI0W5k0Q0?si=JMIPJoeq0lYZm4Bd
 
-[![Video](https://img.youtube.com/vi/fPdI0W5k0Q0?si=JMIPJoeq0lYZm4Bd/maxresdefault.jpg)](https://youtu.be/fPdI0W5k0Q0?si=JMIPJoeq0lYZm4Bd)
+[![Video](https://img.youtube.com/vi/fPdI0W5k0Q0/maxresdefault.jpg)](https://youtu.be/fPdI0W5k0Q0)
 
 Homework2  
 
@@ -15,7 +15,7 @@ https://youtu.be/kPRONkmT2eg?si=ToHSstCFh4YJToiG
 
 https://youtu.be/CkGW5W4eE6I
 
-[![Video](https://img.youtube.com/vi/kPRONkmT2eg?si=ToHSstCFh4YJToiG/maxresdefault.jpg)](https://youtu.be/kPRONkmT2eg?si=ToHSstCFh4YJToiG)
+[![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/kPRONkmT2eg)
 
 
 Homework3
