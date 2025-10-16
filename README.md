@@ -19,3 +19,15 @@ https://youtu.be/kPRONkmT2eg?si=ToHSstCFh4YJToiG
 Homework3
 
 <img src="./Homework3.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+Homework4  
+
+https://youtu.be/2iqjXLgdKwk?si=nSUtMI7VI6MJFNOv
+
+[![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/2iqjXLgdKwk)
+
+Homework5  
+
+https://youtu.be/wahH9Na3GSk?si=bxpHALHBVYEG2I0R
+
+[![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/wahH9Na3GSk)
