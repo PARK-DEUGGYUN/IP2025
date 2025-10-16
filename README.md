@@ -24,10 +24,10 @@ Homework4
 
 https://youtu.be/2iqjXLgdKwk?si=nSUtMI7VI6MJFNOv
 
-[![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/2iqjXLgdKwk)
+[![Video](https://img.youtube.com/vi/2iqjXLgdKwk/maxresdefault.jpg)](https://youtu.be/2iqjXLgdKwk)
 
 Homework5  
 
 https://youtu.be/wahH9Na3GSk?si=bxpHALHBVYEG2I0R
 
-[![Video](https://img.youtube.com/vi/kPRONkmT2eg/maxresdefault.jpg)](https://youtu.be/wahH9Na3GSk)
+[![Video](https://img.youtube.com/vi/wahH9Na3GSk/maxresdefault.jpg)](https://youtu.be/wahH9Na3GSk)
